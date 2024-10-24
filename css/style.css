@@ -1,0 +1,16 @@
+
+*{ margin: 0; padding: 0; box-sizing: border-box;}
+:root{ 
+    --primary: #0c65ed;
+    --gray:#F5F5F5;
+    --pink:#FFF3E3;
+}
+.navtop{background-color: var(--primary);}
+ul{ list-style-type: none; }
+a{ text-decoration: none; }
+.text-dark{ color: black;}
+.text-white{ color:white;}
+.container{width: 90%; margin: 0 auto;}
+.py-2{ padding-top: 1%; padding-bottom: 1%;}
+.align-items-center{ align-items: center;}
+.carousel-item img{height: 75vh;}
